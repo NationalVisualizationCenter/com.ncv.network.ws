@@ -1,0 +1,17 @@
+{
+  "name": "com.ncv.network.ws",
+  "displayName": "NCV.Network.WebSockets",
+  "version": "1.0.0",
+  "unity": "6000.0",
+  "description": "WebSockets library",
+  "category": "Unity",
+  "dependencies": {
+    "com.iterum.log": "3.0.0"
+  },
+  "author": {
+    "name": "NCV",
+    "email": "tech@ncv.global",
+    "url": "https://ncv.global/"
+  },
+  "type": "library"
+}

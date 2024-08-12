@@ -1,0 +1,16 @@
+{
+    "name": "com.ncv.network.ws",
+    "rootNamespace": "NCV",
+    "references": [
+        "com.iterum.log"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
